@@ -1,6 +1,5 @@
 DATABASE_BACKUP_DIR = "/home/eren/backups/database/"
 SYSTEM_BACKUP_DIR = "/home/eren/backups/system/"
-ARCHIVE_DIR = "/home/eren/archives"
 LOG_DIR_WEEKLY = "/home/eren/logs/weekly"
 LOG_DIR_DAILY = "/home/eren/logs/daily"
 AWS_BUCKET_NAME = "cozum-mimari-olcam"
