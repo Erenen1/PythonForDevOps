@@ -1,8 +1,6 @@
 # Python for DevOps
 
-Welcome to my repository where I document my learning journey into DevOps with Python. Here, I share the projects and scripts I have developed as I improve my skills in automation, monitoring, and DevOps practices.
-
----
+Welcome to my repository where I document my learning journey into DevOps with Python. Here, I share the projects and scripts I have developed as I improve my skills in DevOps practices.
 
 ## Future Plans
 
