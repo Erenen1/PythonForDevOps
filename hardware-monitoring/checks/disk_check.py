@@ -1,5 +1,4 @@
 from config.settings import DISK_PERCENT_TRESHOLD
-from hardware.disk import get_disk_usage
 import logging
 from services.email_service import EmailService
 from services.alert_service import AlertService 

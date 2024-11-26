@@ -1,7 +1,6 @@
 from hardware.cpu import get_cpu_usage
 from config.settings import DIR,FILENAME
 from config.logging_config import setup_logging
-import logging
 from checks.cpu_check import check_cpu_usage
 
 if __name__ == "__main__":
